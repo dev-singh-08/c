@@ -16,6 +16,5 @@ int C[2][2]={0,0,0,0};
     for(c=0;c<2;c++){
     printf("%d ",C[r][c]);
     }printf("\n");}
-
 return 0;
 }
