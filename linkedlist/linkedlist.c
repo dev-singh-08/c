@@ -4,7 +4,7 @@ struct Node {
     struct Node*next;
 };
 int main(){
-    struct Nohead;
+    struct Node *head;
     struct Node *second;
     struct Node *third;
 
